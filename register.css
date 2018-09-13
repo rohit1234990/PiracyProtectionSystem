@@ -1,0 +1,150 @@
+
+/*login form username password remebre background design */
+.main{
+border-radius: 10px;
+width:75%;
+background-color:#222156;/*  same color */
+margin-left:50px;
+margin-right:50px;
+margin-top:10px;
+min-height:250px;
+border:0px solid blue;
+}
+
+/*Registration form fill up form design*/
+.main1
+{
+
+background-color:#000080 0 0 128
+72 NAVY BLUE graduate gene #9FAFDF;
+margin-left:10px;
+margin-right:10px;
+margin-top:0p%;
+min-height:300px;
+
+border-radius: 10px;
+   border:solid 0px black;
+    
+   width: 500px;
+    padding: 1px ;
+
+}
+
+/*regsitration form fillup   boxes */
+ register
+{
+  -moz-border-radius: 15px;
+ border-radius: 0px;
+    border:solid 1px black;
+    
+    margin-left:10px;width:50%;
+    padding: 10px ;
+}
+.register{
+    width: 90%;
+    padding: 12px 12px;
+    margin: 1px 2px;
+    display: inline-block;
+    border: 8px solid #ccc;
+    box-sizing: border-box;
+}
+
+
+/* UNKNOWN  Bordered form */
+.form {
+    border: 300px green;
+}
+
+/* Full-width inputs */
+
+/*Box 2  login  form  boxes  design username  and  password  only*/
+.input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+ 
+
+/* Set a style for all buttons */
+/*Login    button  design*/
+button {
+    background-color: #4CAF50;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+    opacity: 0.8;
+}
+
+/* Extra style for the cancel button (red) */
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: red;
+}
+
+
+
+.container1 {
+    padding:  12px 10px;
+}
+/* Add padding to containers */
+.container {
+    padding: 20px;
+}
+
+/* The "Forgot password" text */
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.psw {
+        display: block;
+        float: none;
+       font-color:red;
+    }
+    .cancelbtn {
+        width: 100%;
+    }
+}
+/*-----------------------------------------------------------------------Registraion-------------------------------------------------------------0*/
+
+.box1	{
+		background:#222156; border:0px solid #000;width:550px;border-radius:0px;
+		float:left; min-height:70px; margin-right:0px;margin-left:0px;margin-top:0px;
+	}
+	.box2 	{
+		background:#222156;border:0px solid #000;width:390px;border-radius:50px;
+                float:left; min-height:500px; margin-top:0px;
+	}
+
+
+
+
+/*  Submit    */
+.submit
+{
+    border-radius: 10px;
+    background-color:#4CAF50;
+    color: black;
+    border: 8px solid #ccc;
+    margin: 0px 0;
+    border: none;
+    cursor: pointer;
+    width: 90%;
+    
+    margin: 21px 2px;
+}

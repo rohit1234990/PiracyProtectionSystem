@@ -1,0 +1,23 @@
+.act
+{
+    
+    background-color:pink;
+    color: black;
+    
+    margin-top:auto;
+    margin-left:500px;
+    margin-right:500px; 
+}
+
+.container {
+    padding: 20px;
+}
+.main{
+border-radius: 10px;
+width:19%;
+background-color:blue;/*  same color */
+
+margin-top:10px;
+min-height:250px;
+border:0px solid blue;
+}

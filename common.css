@@ -1,0 +1,23 @@
+*{margin:0; padding:0; font-family: 'Pontano Sans', sans-serif; color:#959595;} /*; font-size:14px*/
+a{text-decoration:none;}
+image{border:none;}
+.clearing{clear:both;}
+
+.header-wrapper{width:100%; height:auto; background:#222156; overflow:hidden;}/*#222999*/
+.header{width:960px; margin:0 auto; margin-top:20px; overflow:hidden;background:purple;}
+.header-content{width:960px; height:100px; background:url(./images/top-strip.jpg) no-repeat;}
+
+.logo{width:500px; float:left;}
+.logo h1{font-family: 'Playfair Display', serif; font-size:45px; color:#ffffff; font-weight:bold; padding-left:30px; padding-top:20px;}
+
+.menu{width:450px; float:right; padding-top:30px;}
+.menu ul{list-style:none;}
+.menu li{float:left; width:100px; height:40px; padding-right:4px;}
+.menu li a{font-size:16px; font-weight:normal; color:#ffffff; width:100px; height:40px; line-height:40px; text-align:center; display:block;}
+.menu li a:hover{font-size:16px; font-weight:normal; color:#ffc103; width:100px; height:40px; line-height:40px; text-align-center;  background:url(../images/menu-h.gif);}
+.menu li a.active{color:#ffc103; background:url(./images/menu-h.gif);}
+
+
+.banner{width:960px; height:371px; background:url(../images/pg) no-repeat; margin:0 auto;}
+
+

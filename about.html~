@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>About us</title>
+<link rel="stylesheet" type="text/css" href="index.css"/>
+<link href='http://fonts.googleapis.com/css?family=Playfair+Display|Pontano+Sans' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div class="header-wrapper">
+	<div class="header">
+    	<div class="header-content">
+        	<div class="logo">
+            	<h1>Sitename</h1>
+            </div>
+            
+            <div class="menu">
+            	<ul>
+                <li><a class="active" href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Solutions</a></li>
+                <li><a href="#">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!--- header-wrapper div end -->
+<div class="clearing"></div>
+<div class="cotainer">
+	<div class="col-wrapper">
+	<div class="col1 marRight">
+	
+	
+	</div>
+	<div class="col2">
+	
+	</div>
+</div>
+<div class="clearing"></div>
+<div class="footer-wrapper">
+	<div class="footer">
+    	<div class="footer-panel marRight">
+        	
+        </div>
+        
+        <div class="footer-panel marRight">
+        	
+        </div>
+        
+        <div class="newsletter">
+			
+        	
+			
+			</ul>
+            </div>
+           
+        </div>
+        
+    </div>
+</div>
+<!--- footer-wrapper div end -->
+<div class="footer-strip-wrapper">
+	<div class="footer-strip">
+    
+    </div>
+</div>
+</body>
+</html>
